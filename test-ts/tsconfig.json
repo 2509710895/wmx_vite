@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "skipLibCheck": true,// 跳过node_module目录检查
+        "module": "esnext",
+        "lib": ["esnext", "dom"],
+        "allowSyntheticDefaultImports": true,
+    }
+}

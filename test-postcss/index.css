@@ -1,0 +1,7 @@
+:root{
+    --globalColor:pink;
+}
+
+div{
+    background-color: var(--globalColor);
+}
